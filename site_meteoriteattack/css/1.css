@@ -1,0 +1,83 @@
+body{
+    background-color: #000;
+    background-image: url('../picture/backk.png')
+}
+
+h1 {
+    color: #41ddb3;
+    font-size: 30px;
+    
+}
+main {
+    color: #41ddb3;
+   
+}
+
+
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+header > div{
+    background-color: black;
+    background-image: url('../picture/g1189.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid #41ddb3;
+/*    padding: 250px;*/
+/*    margin:250px;*/
+    width: 1300px;
+    height: 600px;
+}
+
+header nav {
+    padding: 5px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #41ddb3;
+    padding-right: 10px;
+}
+
+header nav a:hover {
+    color: #96f5dc;
+}
+
+p{
+    border: 1px solid #41ddb3;
+    margin: 10px;
+    padding: 10px
+}
+
+p:hover{
+    background-color: rgb(204, 204, 89)
+}
+
+p:nth-child(1) {
+    background-image:url('../picture/vaisseau.png') ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid #41ddb3;
+    padding: 10px;
+    margin:10px;
+}
+   
+p a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #41ddb3;
+    text-decoration: none;
+}
+
+footer {
+     color: #41ddb3;
+     display: flex;
+     justify-content: center;
+     margin-top: 150px;
+}
+    

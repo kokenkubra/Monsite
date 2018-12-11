@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: #41ddb3;
+    background-image: url('../picture/vaisseau.png');
+    background-repeat: no-repeat;
+    background-position: center center; 
+
+}
+head {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}

@@ -1,0 +1,18 @@
+
+body {
+    background-color: black;
+    color: #41ddb3;
+    background-image: url('../picture/asteroidL.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+/*
+    border: 1px solid #ffffff;
+    padding: 80px;
+    margin:80px; 
+*/
+}
+head {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
